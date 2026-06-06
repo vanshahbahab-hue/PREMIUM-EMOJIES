@@ -30,7 +30,7 @@ logger = logging.getLogger(__name__)
 
 # ========== CONFIG ==========
 BOT_TOKEN = "8901258118:AAF_ps_33-76DuWnpPLdrP7WAr0G85X6dLk"
-OWNER_ID = 8225378024
+OWNER_ID = 8586849798
 USERS_FILE = "users.json"
 BANNED_FILE = "banned.json"
 EMOJI_FILE = "emojis.json"
